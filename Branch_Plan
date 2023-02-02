@@ -1,0 +1,8 @@
+abstract class Branch_Plan extends HeadOffice{
+public static void main(String args[]){
+System.out.println("this is main method");
+}
+public void do_interview(){
+System.out.println("Do interview Man!");
+}
+}
